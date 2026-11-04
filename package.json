@@ -18,7 +18,7 @@
     "react-dom": "^19.3.1"
   },
   "devDependencies": {
-    "@hybridappdev/gate": "github:hybridappdev/gate",
+    "@hybridappdev/gate": "github:hybridappdev/gate#b95c0db5e75e3c830853ab2aeb726227068d5e03",
     "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
@@ -29,8 +29,7 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "esbuild",
-      "@hybridappdev/gate"
+      "esbuild"
     ]
   }
 }
